@@ -1,7 +1,9 @@
 cvxpy
+scs
 numpy
 pandas
 matplotlib
 scipy
 jupyter
 kagglehub
+seaborn
